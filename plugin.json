@@ -7,10 +7,10 @@
     {
       "name": "HentaiVN Mới",
       "author": "MaestroQn",
-      "path": "",
+      "path": "https://raw.githubusercontent.com/maestroqn/vbook-exts/main/hentaivnmoi/plugin.json",
       "version": 1,
       "source": "https://hentaivnmoi.net/",
-      "icon": "",
+      "icon": "https://raw.githubusercontent.com/maestroqn/vbook-exts/main/hentaivnmoi/icon.png",
       "description": "Đọc truyện tại HentaiVNMoi",
       "type": "comic",
       "tag": "nsfw",
