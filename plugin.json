@@ -1,0 +1,20 @@
+{
+  "metadata": {
+    "author": "Maestro",
+    "description": "Tuỳ hứng"
+  },
+  "data": [
+    {
+      "name": "HentaiVN Mới",
+      "author": "Maestro",
+      "path": "",
+      "version": 1,
+      "source": "https://hentaivnmoi.net/",
+      "icon": "",
+      "description": "Đọc truyện tại HentaiVNMoi",
+      "type": "comic",
+      "tag": "nsfw",
+      "locale": "vi_VN"
+    }
+  ]
+}

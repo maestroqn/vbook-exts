@@ -1,0 +1,22 @@
+{
+  "metadata": {
+    "name": "HentaiVNMoi",
+    "author": "Maestro",
+    "version": 1,
+    "source": "https://hentaivnmoi.net",
+    "regexp": "https:\/\/(www.)?hentaivnmoi.net\/[0-9a-z-]+\/?$",
+    "description": "Đọc truyện trên trang HentaiVNMoi.Net",
+    "local": "vi-VN",
+    "language": "javascript",
+    "type": "comic",
+    "tag": "nsfw"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
